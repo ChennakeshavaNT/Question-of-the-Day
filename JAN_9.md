@@ -7,8 +7,8 @@
 ### C: a.reshape(-1)
 ### D: a.unravel()
 
-## Answer:- Option D: a.unravel()
+### Answer:- Option D: a.unravel()
 
-## Explanation:- 
+### Explanation:- 
 
 There is no such method as unravel present in python
