@@ -21,4 +21,3 @@ print( not(curr_rate) + curr_state)
 
 not return value will be True if the statement(s) are not True, otherwise it will return False.
 not(0) will evaluate to False 
-© 2021 GitHub, Inc.
