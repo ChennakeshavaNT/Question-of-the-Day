@@ -7,5 +7,6 @@
 ### B: [False]
 ### C: 1
 ### D: 2
+### Answer:- A: [True]
 ### Explanation:
 (t.pop() > t.pop()) > (t.pop() < t.pop()) gives (4 > 3) > (2 < 1) which is True as True > False
